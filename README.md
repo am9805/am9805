@@ -3,7 +3,7 @@
 <img src="https://static.wixstatic.com/media/5a300e_ceef7280a9744bbc8bc45ec9e036818c~mv2.gif"></p>
 
 :blossom: My name is Angélica and I am a System Engineering student at the Universidad de Antioquia in Medellín, Colombia.
-:hibiscus: I'm currently working at [Experimentality SAS ](https://www.experimentality.co/es/principal/) as a Frontend developer.
+:hibiscus:
 :sunflower: Series lover (I have an obsession).
 :microphone:  I love singing.
 :book: And sometimes i read hehehe.
